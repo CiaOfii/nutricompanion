@@ -63,4 +63,9 @@ GitHub: [@CiaOfii](https://github.com/CiaOfii)
 
 ---
 
+## ⚙️Demo :
+https://nutribot.enzonic.dev
+
+---
+
 *Dokumentasi ini perlu disesuaikan dengan konfigurasi dan fitur aktual aplikasi sebelum dipublikasikan.*
